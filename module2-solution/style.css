@@ -16,6 +16,7 @@ h2{
 }
 h2 span{
 	background-color: #A52A2A;
+	border: 1px solid black;
 }
 #box{
 	border: 1px solid black;
